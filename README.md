@@ -12,12 +12,19 @@
 <div>
 <a href="https://github.com/JoaoKeuwe">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoKeuwe&theme=radical" />
+<img height=200em src="avatar.png">
+</div>
   
 ##
-  
+
 </div>
+
+<div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKeuwe&layout=compact&theme=radical" />
+
 </div>
+
+
   
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,mysql,mongodb,redux,bootstrap,docker,vscode,powershell,bash,heroku,linux,git,github,jest,&perline=9)](https://skillicons.dev)
 <br>
