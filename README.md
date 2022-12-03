@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=JoaoKeuwe%20&fontAlignY=40&color=gradient)
 ## Olá eu sou o João Keuwe! 👋👨🏾‍💻
-## 🔭Quem sou eu?
+### 🔭Quem sou eu?
 #### ♋ 21 Anos
 #### 👨🏾‍💻 Desenvolvedor Front-end Jr
 #### 🎮 Amante de games
