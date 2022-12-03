@@ -27,9 +27,14 @@
 [![My Skills](https://skillicons.dev/icons?i=vuejs,python,bootstrap,sass&perline=9)](https://skillicons.dev)
 <br>
 
+## Ultimos Projetos 🌍
 
-#### Contate-me:
-  
-  :mailbox: willian.alves.b15@gmail.com
-  
-  :briefcase: https://www.linkedin.com/in/willian-alves-batista/
+## [Projeto keuwe gym Website](https://gym-website-pi.vercel.app/)
+## [Calculadora Dark & Light Mode](https://calculatorkeuwe.netlify.app)
+## [Projeto keuwe gym Website](https://gym-website-pi.vercel.app/)
+## [Projeto keuwe gym Website](https://gym-website-pi.vercel.app/)
+## [Projeto keuwe gym Website](https://gym-website-pi.vercel.app/)
+## [Projeto keuwe gym Website](https://gym-website-pi.vercel.app/)
+## [Projeto keuwe gym Website](https://gym-website-pi.vercel.app/)
+## [Projeto keuwe gym Website](https://gym-website-pi.vercel.app/)
+## [Projeto keuwe gym Website](https://gym-website-pi.vercel.app/)
