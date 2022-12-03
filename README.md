@@ -20,8 +20,14 @@
 </div>
   
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,mysql,mongodb,redux,bootstrap,docker,vscode,powershell,bash,heroku,linux,git,github,jest,&perline=9)](https://skillicons.dev)
-------
-  
+<br>
+
+## Tecnologias que estou estudando no momento 👨🏾‍💻
+
+[![My Skills](https://skillicons.dev/icons?i=vuejs,python,bootstrap,sass&perline=9)](https://skillicons.dev)
+<br>
+
+
 #### Contate-me:
   
   :mailbox: willian.alves.b15@gmail.com
