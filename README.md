@@ -31,8 +31,8 @@
 
 ## [Projeto keuwe gym Website](https://gym-website-pi.vercel.app/)
 ## [Calculadora Dark & Light Mode](https://calculatorkeuwe.netlify.app)
-## [Projeto keuwe gym Website](https://gym-website-pi.vercel.app/)
-## [Projeto keuwe gym Website](https://gym-website-pi.vercel.app/)
+## [Projeto Agency JK](https://keuweagency.netlify.app)
+## [Projeto Imobiliária Versace Home](https://imobiliariakeuwe.netlify.app)
 ## [Projeto keuwe gym Website](https://gym-website-pi.vercel.app/)
 ## [Projeto keuwe gym Website](https://gym-website-pi.vercel.app/)
 ## [Projeto keuwe gym Website](https://gym-website-pi.vercel.app/)
