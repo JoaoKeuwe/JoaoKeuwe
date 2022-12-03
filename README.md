@@ -36,5 +36,5 @@
 ## [Portifólio Pessoal](https://portifoliokeuwe.netlify.app)
 ## [Jogo da velha Neon](https://tourmaline-praline-a4cf56.netlify.app)
 ## [Projeto Keuwe Tunes](https://keuwe-tunes.netlify.app)
-## [Projeto keuwe gym Website](https://gym-website-pi.vercel.app/)
+## [Projeto Bsucador de CEP](https://busca-de-cep.netlify.app)
 ## [Projeto keuwe gym Website](https://gym-website-pi.vercel.app/)
