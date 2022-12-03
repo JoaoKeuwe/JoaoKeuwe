@@ -37,4 +37,6 @@
 ## [Jogo da velha Neon](https://tourmaline-praline-a4cf56.netlify.app)
 ## [Projeto Keuwe Tunes](https://keuwe-tunes.netlify.app)
 ## [Projeto Bsucador de CEP](https://busca-de-cep.netlify.app)
-## [Projeto keuwe gym Website](https://gym-website-pi.vercel.app/)
+## [Landing Page Tesla](https://landing-page-tesla.netlify.app)
+## [Projeto Keuwe Gallery](https://keuwegalery.netlify.app/)
+## [Landing Page Tesla](https://landing-page-tesla.netlify.app)
