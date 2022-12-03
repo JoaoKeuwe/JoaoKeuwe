@@ -29,6 +29,8 @@
 
 ## Ultimos Projetos 🌍
 
+<div align=left>
+  
 ## [Projeto keuwe gym Website](https://gym-website-pi.vercel.app/) 🏋🏾
 ## [Calculadora Dark & Light Mode](https://calculatorkeuwe.netlify.app) ☀️🌙
 ## [Projeto Agency JK](https://keuweagency.netlify.app) 👨🏾‍💼
@@ -41,5 +43,7 @@
 ## [Projeto Keuwe Gallery](https://keuwegalery.netlify.app/) 📸
 ## [Forms Twitter](https://teal-monstera-8600c4.netlify.app) 🕊️
 ## [Landing Page Starbucks](https://landing-page-starbuckss.netlify.app) ☕
+  
+</div>
 
 
