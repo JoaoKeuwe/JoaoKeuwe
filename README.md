@@ -7,6 +7,7 @@
 #### 🎮 Amante de games
 #### 📚 Adoro ler livros sobre tecnologias  e desenvolvimento pessoal
 #### 🎨 Veja mais de meus projetos em meus [Repositórios](https://github.com/JoaoKeuwe?tab=repositories)
+#### 📚 Acesse meu [Portifólio](https://portifoliokeuwe.netlify.app/)
 
 
 
