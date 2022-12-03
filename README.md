@@ -35,7 +35,7 @@
 ## [Projeto Imobiliária Versace Home](https://imobiliariakeuwe.netlify.app) 🏠
 ## [Portifólio Pessoal](https://portifoliokeuwe.netlify.app) 🖼️
 ## [Jogo da velha Neon](https://tourmaline-praline-a4cf56.netlify.app) 🌀
-## [Projeto Keuwe Tunes](https://keuwe-tunes.netlify.app) 
+## [Projeto Keuwe Tunes](https://keuwe-tunes.netlify.app) 🎶
 ## [Projeto Buscador de CEP](https://busca-de-cep.netlify.app)
 ## [Landing Page Tesla](https://landing-page-tesla.netlify.app)
 ## [Projeto Keuwe Gallery](https://keuwegalery.netlify.app/)
