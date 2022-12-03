@@ -23,10 +23,8 @@
 <img height="250px" width="300" align="right" src="programmer.png">
 </div>
 
-##
-
-
-  
+## Tecnologias que uso no meu dia a dia 🧑🏾‍💻
+ 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,mysql,mongodb,redux,bootstrap,docker,vscode,powershell,bash,heroku,linux,git,github,jest,&perline=9)](https://skillicons.dev)
 <br>
 
