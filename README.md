@@ -11,16 +11,15 @@
 ##
 <div>
 <a href="https://github.com/JoaoKeuwe">
-<img height="180em" left='200px' src="https://github-readme-stats.vercel.app/api?username=JoaoKeuwe&theme=radical" />
-<img  height="200px" width="350" align="right" src="avatar.png">
-</div>
-  
+<img height="230em" left='200px' src="https://github-readme-stats.vercel.app/api?username=JoaoKeuwe&theme=radical" />
+<img  height="230px" width="350" align="right" src="avatar.png">
+</div> 
+
 ##
 
 </div>
-
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKeuwe&layout=compact&theme=radical" />
+<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKeuwe&layout=compact&theme=radical" />
 <img height="300px" width="400" align="right" src="programmer.png">
 </div>
 
@@ -48,14 +47,6 @@
 ## [Jogo da velha Neon](https://tourmaline-praline-a4cf56.netlify.app) 🌀
 <img height=600em src="rocket3.webp">
 </div>
-
-
-<div align=right>
-  
-
-
-</div>
-
 
 <div align=left>
 
