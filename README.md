@@ -44,6 +44,19 @@
 ## [Projeto Imobiliária Versace Home](https://imobiliariakeuwe.netlify.app) 🏠
 ## [Portifólio Pessoal](https://portifoliokeuwe.netlify.app) 🖼️
 ## [Jogo da velha Neon](https://tourmaline-praline-a4cf56.netlify.app) 🌀
+<img height=600em src="rocket3.webp">
+</div>
+
+
+<div align=right>
+  
+
+
+</div>
+
+
+<div align=left>
+
 ## [Projeto Keuwe Tunes](https://keuwe-tunes.netlify.app) 🎶
 ## [Projeto Buscador de CEP](https://busca-de-cep.netlify.app) 🚩
 ## [Landing Page Tesla](https://landing-page-tesla.netlify.app) 🚗
@@ -52,9 +65,3 @@
 ## [Landing Page Starbucks](https://landing-page-starbuckss.netlify.app) ☕
   
 </div>
-
-<div>
-
-</div>
-
-
