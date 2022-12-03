@@ -35,22 +35,27 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=vuejs,python,bootstrap,sass&perline=9)](https://skillicons.dev)
-##
 
-# Ultimos Projetos 🌍
-
-<div align=left>
+<div align=center>
   
+# Ultimos Projetos 🌍
+  
+ </div>
+<!-- 
+<div align=left>
+  <div align=left>
+  <img height=600em src="rocket3.webp">
+  </div> -->
+
 ## [Projeto keuwe gym Website](https://gym-website-pi.vercel.app/) 🏋🏾
 ## [Calculadora Dark & Light Mode](https://calculatorkeuwe.netlify.app) ☀️🌙
 ## [Projeto Agency JK](https://keuweagency.netlify.app) 👨🏾‍💼
 ## [Projeto Imobiliária Versace Home](https://imobiliariakeuwe.netlify.app) 🏠
 ## [Portifólio Pessoal](https://portifoliokeuwe.netlify.app) 🖼️
 ## [Jogo da velha Neon](https://tourmaline-praline-a4cf56.netlify.app) 🌀
-<img height=600em src="rocket3.webp">
+
 </div>
 
-<div align=left>
 
 ## [Projeto Keuwe Tunes](https://keuwe-tunes.netlify.app) 🎶
 ## [Projeto Buscador de CEP](https://busca-de-cep.netlify.app) 🚩
