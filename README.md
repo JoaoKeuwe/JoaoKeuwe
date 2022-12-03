@@ -1,12 +1,12 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=JoaoKeuwe%20&fontAlignY=40&color=gradient)
 ## Olá eu sou o João Keuwe! 👋👨🏾‍💻
 ### 🔭Quem sou eu?
-#### ♋ 21 Anos
-#### 👨🏾‍💻 Desenvolvedor Front-end Jr
-#### 🎮 Amante de games
-#### 📚 Adoro ler livros sobre tecnologias  e desenvolvimento pessoal
-#### 🎨 Veja mais de meus projetos em meus [Repositórios](https://github.com/JoaoKeuwe?tab=repositories)
-#### 📚 Acesse meu [Portifólio](https://portifoliokeuwe.netlify.app/)
+### ♋ 21 Anos
+### 👨🏾‍💻 Desenvolvedor Front-end Jr
+### 🎮 Amante de games
+### 📚 Adoro ler livros sobre tecnologias  e desenvolvimento pessoal
+### 🎨 Veja mais de meus projetos em meus [Repositórios](https://github.com/JoaoKeuwe?tab=repositories)
+### 📚 Acesse meu [Portifólio](https://portifoliokeuwe.netlify.app/)
 
 ##
 <div>
