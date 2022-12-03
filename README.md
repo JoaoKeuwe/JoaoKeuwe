@@ -32,10 +32,12 @@
 
 ## Tecnologias que estou estudando no momento 👨🏾‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=vuejs,python,bootstrap,sass&perline=9)](https://skillicons.dev)
-<br>
 
-## Ultimos Projetos 🌍
+
+[![My Skills](https://skillicons.dev/icons?i=vuejs,python,bootstrap,sass&perline=9)](https://skillicons.dev)
+##
+
+# Ultimos Projetos 🌍
 
 <div align=left>
   
