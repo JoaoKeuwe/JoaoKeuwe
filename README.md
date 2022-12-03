@@ -35,6 +35,6 @@
 ## [Projeto Imobiliária Versace Home](https://imobiliariakeuwe.netlify.app)
 ## [Portifólio Pessoal](https://portifoliokeuwe.netlify.app)
 ## [Jogo da velha Neon](https://tourmaline-praline-a4cf56.netlify.app)
-## [Projeto keuwe gym Website](https://gym-website-pi.vercel.app/)
+## [Projeto Keuwe Tunes](https://keuwe-tunes.netlify.app)
 ## [Projeto keuwe gym Website](https://gym-website-pi.vercel.app/)
 ## [Projeto keuwe gym Website](https://gym-website-pi.vercel.app/)
