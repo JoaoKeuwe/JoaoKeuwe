@@ -34,7 +34,6 @@
 ## Tecnologias que estou estudando no momento 👨🏾‍💻
 
 
-
 [![My Skills](https://skillicons.dev/icons?i=vuejs,python,bootstrap,sass&perline=9)](https://skillicons.dev)
 
 <div align=center>
