@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=JoaoKeuwe%20&fontAlignY=40&color=gradient)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=12AAC2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+João+Keuwe;Tenho+21+anos;sou+de+São+Paulo,+Brasil;Desenvolvedor+Front-end+JR;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=12AAC2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+João+Keuwe;Tenho+21+anos;sou+de+São+Paulo;Desenvolvedor+Front-end+JR;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
 ## Olá eu sou o João Keuwe! 👋👨🏾‍💻
 ### 🔭Quem sou eu?
