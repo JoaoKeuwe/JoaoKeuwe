@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=12AAC2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+João+Keuwe;Tenho+21+anos;sou+de+São+Paulo;Desenvolvedor+Front-end+JR;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
+<div align=left>
+ 
 ## Olá eu sou o João Keuwe! 👋👨🏾‍💻
 ### 🔭Quem sou eu?
 ### ♋ 21 Anos
@@ -10,6 +12,8 @@
 ### 📚 Adoro ler livros sobre tecnologias  e desenvolvimento pessoal
 ### 🎨 Veja mais de meus projetos em meus [Repositórios](https://github.com/JoaoKeuwe?tab=repositories)
 ### 📚 Acesse meu [Portifólio](https://portifoliokeuwe.netlify.app/)
+
+</div> 
 
 ##
 <div>
