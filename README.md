@@ -28,14 +28,16 @@
 <div>
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKeuwe&layout=compact&theme=radical" />
 
-<img height="300px" width="300" align="right" src="programmer.png">
+<img height="280px" width="300" align="right" src="programmer.png">
 
 </div>
+
 
 ## Tecnologias que uso no meu dia a dia 🧑🏾‍💻
  
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,mysql,mongodb,redux,bootstrap,docker,vscode,powershell,bash,heroku,linux,git,github,jest,&perline=9)](https://skillicons.dev)
 <br>
+
 
 ## Tecnologias que estou estudando no momento 👨🏾‍💻
 
