@@ -26,7 +26,7 @@
 
 </div>
 <div>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKeuwe&layout=compact&theme=radical" />
+<img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKeuwe&layout=compact&theme=radical" />
 
 <img height="230px" width="220" align="right" src="me2.png">
 
@@ -35,7 +35,7 @@
 ## Tecnologias que uso no meu dia a dia 🧑🏾‍💻
  
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,mysql,mongodb,redux,bootstrap,docker,vscode,powershell,bash,heroku,linux,git,github,jest,&perline=9)](https://skillicons.dev)
-<img height="230px" width="220" align="right" src="me3.png">
+<img height="230px" width="220px" align="right" src="me3.png">
 
 <br>
 
