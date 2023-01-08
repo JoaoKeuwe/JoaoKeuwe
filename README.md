@@ -19,7 +19,7 @@
 <div>
 <a href="https://github.com/JoaoKeuwe">
 <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=JoaoKeuwe&theme=radical" />
-<img  height="280px" width="280" align="right" src="avatar.png">
+<img  height="230px" width="300" align="right" src="avatar.png">
 </div> 
 
 ##
