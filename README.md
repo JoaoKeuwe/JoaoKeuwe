@@ -37,15 +37,24 @@
  
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,mysql,mongodb,redux,bootstrap,docker,vscode,powershell,bash,heroku,linux,git,github,jest,&perline=9)](https://skillicons.dev)
 <img height="230px" width="220" align="right" src="me3.png">
+
 <br>
 
-
 ## Tecnologias que estou estudando no momento 👨🏾‍💻
+
+<img height="230px" width="220" align="right" src="me2.png">
+<br>
+  
+  <br>
 
 
 [![My Skills](https://skillicons.dev/icons?i=vuejs,python,bootstrap,sass&perline=9)](https://skillicons.dev)
 
 <div align=center>
+  
+  <br>
+  
+  <br>
   
 # Ultimos Projetos 🌍
   
