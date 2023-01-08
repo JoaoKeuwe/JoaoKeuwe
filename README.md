@@ -67,7 +67,7 @@
 ## [Calculadora Dark & Light Mode](https://calculatorkeuwe.netlify.app) ☀️🌙
 ## [Projeto Agency JK](https://keuweagency.netlify.app) 👨🏾‍💼  
 
-<img height="650px" width="480px" align="right" src="rocket3.webp">
+<img height="600px" width="430px" align="right" src="rocket3.webp">
 
 ## [Projeto Imobiliária Versace Home](https://imobiliariakeuwe.netlify.app) 🏠
 ## [Blog](https://keuweblog.netlify.app/) 📰
