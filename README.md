@@ -47,24 +47,25 @@
 # Ultimos Projetos 🌍
   
  </div>
-<!-- 
+
 <div align=left>
-  <div align=left>
-  <img height=600em src="rocket3.webp">
-  </div> -->
 
 ## [Projeto keuwe gym Website](https://gym-website-pi.vercel.app/) 🏋🏾
 ## [Calculadora Dark & Light Mode](https://calculatorkeuwe.netlify.app) ☀️🌙
-## [Projeto Agency JK](https://keuweagency.netlify.app) 👨🏾‍💼                               
+## [Projeto Agency JK](https://keuweagency.netlify.app) 👨🏾‍💼  
+
+<img height="700px" width="500" align="right" src="rocket3.webp">
+
 ## [Projeto Imobiliária Versace Home](https://imobiliariakeuwe.netlify.app) 🏠
 ## [Blog](https://keuweblog.netlify.app/) 📰
 ## [Portifólio Pessoal](https://portifoliokeuwe.netlify.app) 🖼️
 ## [Jogo da velha Neon](https://tourmaline-praline-a4cf56.netlify.app) 🌀
 ## [Projeto Keuwe Tunes](https://keuwe-tunes.netlify.app) 🎶
-
-<img height="320px" width="300" align="right" src="programmer.png">
-
 ## [Todo-List](https://keuwetodolist.netlify.app/) 🗒️
+
+
+
+
 ## [Projeto Buscador de CEP](https://busca-de-cep.netlify.app) 🚩
 ## [Landing Page Tesla](https://landing-page-tesla.netlify.app) 🚗
 ## [Projeto Keuwe Gallery](https://keuwegalery.netlify.app/) 📸
