@@ -42,8 +42,10 @@
 ## Tecnologias que estou estudando no momento 👨🏾‍💻
 
 <img height="230px" width="220" align="right" src="me4.png">
+<br>
 
 <br>
+
 
 <br>
 
@@ -51,7 +53,7 @@
 
 <div align=center>
   
-  <br>
+  
   
   <br>
   
