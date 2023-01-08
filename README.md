@@ -43,19 +43,15 @@
 
 <img height="220px" width="220" align="right" src="me4.png">
 <br>
-
+<br>
 <br>
 
-
+[![My Skills](https://skillicons.dev/icons?i=vuejs,python,bootstrap,sass&perline=9)](https://skillicons.dev) <br>
+<br>
+<br>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=vuejs,python,bootstrap,sass&perline=9)](https://skillicons.dev)
-
-<div >
-  
-  
-  
-  <br>
+<div align=center>
   
 # Ultimos Projetos 🌍
   
