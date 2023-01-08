@@ -32,7 +32,6 @@
 
 </div>
 
-
 ## Tecnologias que uso no meu dia a dia 🧑🏾‍💻
  
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,mysql,mongodb,redux,bootstrap,docker,vscode,powershell,bash,heroku,linux,git,github,jest,&perline=9)](https://skillicons.dev)
@@ -42,11 +41,11 @@
 
 ## Tecnologias que estou estudando no momento 👨🏾‍💻
 
-<img height="230px" width="220" align="right" src="me2.png">
-<br>
-  
-  <br>
+<img height="230px" width="220" align="right" src="me4.png">
 
+<br>
+
+<br>
 
 [![My Skills](https://skillicons.dev/icons?i=vuejs,python,bootstrap,sass&perline=9)](https://skillicons.dev)
 
@@ -74,15 +73,10 @@
 ## [Jogo da velha Neon](https://tourmaline-praline-a4cf56.netlify.app) 🌀
 ## [Projeto Keuwe Tunes](https://keuwe-tunes.netlify.app) 🎶
 ## [Todo-List](https://keuwetodolist.netlify.app/) 🗒️
-
-
-
-
 ## [Projeto Buscador de CEP](https://busca-de-cep.netlify.app) 🚩
 ## [Landing Page Tesla](https://landing-page-tesla.netlify.app) 🚗
 ## [Projeto Keuwe Gallery](https://keuwegalery.netlify.app/) 📸
 ## [Forms Twitter](https://teal-monstera-8600c4.netlify.app) 🕊️
 ## [Landing Page Starbucks](https://landing-page-starbuckss.netlify.app) ☕
 
-  
 </div>
