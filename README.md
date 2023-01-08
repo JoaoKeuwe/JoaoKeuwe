@@ -27,7 +27,9 @@
 </div>
 <div>
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKeuwe&layout=compact&theme=radical" />
-<img height="320px" width="300" align="right" src="programmer.png">
+
+<img height="300px" width="300" align="right" src="programmer.png">
+
 </div>
 
 ## Tecnologias que uso no meu dia a dia 🧑🏾‍💻
@@ -59,11 +61,15 @@
 ## [Portifólio Pessoal](https://portifoliokeuwe.netlify.app) 🖼️
 ## [Jogo da velha Neon](https://tourmaline-praline-a4cf56.netlify.app) 🌀
 ## [Projeto Keuwe Tunes](https://keuwe-tunes.netlify.app) 🎶
+
+<img height="320px" width="300" align="right" src="programmer.png">
+
 ## [Todo-List](https://keuwetodolist.netlify.app/) 🗒️
 ## [Projeto Buscador de CEP](https://busca-de-cep.netlify.app) 🚩
 ## [Landing Page Tesla](https://landing-page-tesla.netlify.app) 🚗
 ## [Projeto Keuwe Gallery](https://keuwegalery.netlify.app/) 📸
 ## [Forms Twitter](https://teal-monstera-8600c4.netlify.app) 🕊️
 ## [Landing Page Starbucks](https://landing-page-starbuckss.netlify.app) ☕
+
   
 </div>
