@@ -28,7 +28,7 @@
 <div>
 <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKeuwe&layout=compact&theme=radical" />
 
-<img height="230px" width="220" align="right" src="me2.png">
+<img height="220px" width="220" align="right" src="me2.png">
 
 </div>
 
