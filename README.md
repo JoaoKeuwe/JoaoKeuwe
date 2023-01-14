@@ -19,8 +19,24 @@
 <div>
 <a href="https://github.com/JoaoKeuwe">
  
-   <img height="210em" src="https://github-readme-stats.vercel.app/api?username=joaokeuwe&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+
  
+ ```javascript
+const express = require('express')
+const app = express()
+
+const webDeveloper = {name:"Joao-Keuwe", stack:"Front-End-Developer"}
+
+app.get('/', (req, res) =>{
+  return res.send(webDeveloper)
+}),
+
+app.listen(3000, () =>{
+  console.log("Initing code...")
+})
+
+```
+  
 <!-- <img height="210em" src="https://github-readme-stats.vercel.app/api?username=joaokeuwe&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> -->
 
 </div> 
@@ -29,7 +45,7 @@
 
 </div>
 <div>
-<img height='210em' src='https://github-readme-streak-stats.herokuapp.com?user=joaokeuwe&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
+<img height='302em' src='https://github-readme-streak-stats.herokuapp.com?user=joaokeuwe&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
 
 <img height="220px" width="220" align="right" src="eu2.png">
 
