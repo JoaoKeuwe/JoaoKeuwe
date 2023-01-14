@@ -12,7 +12,7 @@
 ### 📚 Adoro ler livros sobre tecnologias  e desenvolvimento pessoal
 ### 🎨 Veja mais de meus projetos em meus [Repositórios](https://github.com/JoaoKeuwe?tab=repositories)
 ### 📚 Acesse meu [Portifólio](https://portifoliokeuwe.netlify.app/)
-<img height="230px" width="220" align="right" src="me.png">
+<img height="230px" width="220" align="right" src="eu.png">
 </div> 
 
 ##
@@ -28,20 +28,20 @@
 <div>
 <img height='210em' src='https://github-readme-streak-stats.herokuapp.com?user=joaokeuwe&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
 
-<img height="220px" width="220" align="right" src="me2.png">
+<img height="220px" width="220" align="right" src="eu2.png">
 
 </div>
 
 ## Tecnologias que uso no meu dia a dia 🧑🏾‍💻
  
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,mysql,mongodb,redux,bootstrap,docker,vscode,powershell,bash,heroku,linux,git,github,jest,&perline=9)](https://skillicons.dev)
-<img height="230px" width="220px" align="right" src="me3.png">
+<img height="230px" width="220px" align="right" src="eu3.png">
 
 <br>
 
 ## Tecnologias que estou estudando no momento 👨🏾‍💻
 
-<img height="220px" width="220" align="right" src="me4.png">
+<img height="220px" width="220" align="right" src="eu4.png">
 <br>
 <br>
 <br>
