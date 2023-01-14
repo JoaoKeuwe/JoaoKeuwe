@@ -83,7 +83,7 @@ app.listen(3000, () =>{
 ## [Projeto Agency JK](https://keuweagency.netlify.app) 👨🏾‍💼  
 ## [Projeto Imobiliária Versace Home](https://imobiliariakeuwe.netlify.app) 🏠
 
-<img height="400px" width="430px" align="right" src="copo.png">
+<img height="400px" width="350px" align="right" src="copo.png">
 
 ## [Blog](https://keuweblog.netlify.app/) 📰
 ## [Portifólio Pessoal](https://portifoliokeuwe.netlify.app) 🖼️
