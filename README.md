@@ -18,7 +18,7 @@
 ##
 <div>
 <a href="https://github.com/JoaoKeuwe">
-<img height="200em"  src="https://github-readme-stats.vercel.app/api?username=JoaoKeuwe&theme=radical" />
+<img height="240em" src="https://github-readme-stats.vercel.app/api?username=joaokeuwe&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 
 </div> 
 
@@ -26,7 +26,7 @@
 
 </div>
 <div>
-<img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKeuwe&layout=compact&theme=radical" />
+<img height='240em' src='https://github-readme-streak-stats.herokuapp.com?user=joaokeuwe&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
 
 <img height="220px" width="220" align="right" src="me2.png">
 
