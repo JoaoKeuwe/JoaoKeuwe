@@ -81,10 +81,10 @@ app.listen(3000, () =>{
 ## [Projeto keuwe gym Website](https://gym-website-pi.vercel.app/) 🏋🏾
 ## [Calculadora Dark & Light Mode](https://calculatorkeuwe.netlify.app) ☀️🌙
 ## [Projeto Agency JK](https://keuweagency.netlify.app) 👨🏾‍💼  
-
-<img height="600px" width="430px" align="right" src="rocket3.webp">
-
 ## [Projeto Imobiliária Versace Home](https://imobiliariakeuwe.netlify.app) 🏠
+
+<img height="400px" width="430px" align="right" src="copo.png">
+
 ## [Blog](https://keuweblog.netlify.app/) 📰
 ## [Portifólio Pessoal](https://portifoliokeuwe.netlify.app) 🖼️
 ## [Jogo da velha Neon](https://tourmaline-praline-a4cf56.netlify.app) 🌀
