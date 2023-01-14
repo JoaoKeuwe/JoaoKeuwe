@@ -45,7 +45,7 @@ app.listen(3000, () =>{
 
 </div>
 <div>
-<img height='250em' src='https://github-readme-streak-stats.herokuapp.com?user=joaokeuwe&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
+<img height='210em' src='https://github-readme-streak-stats.herokuapp.com?user=joaokeuwe&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
 
 <img height="220px" width="220" align="right" src="eu2.png">
 
