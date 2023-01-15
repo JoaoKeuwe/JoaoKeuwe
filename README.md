@@ -12,7 +12,7 @@
 ### 📚 Adoro ler livros sobre tecnologias  e desenvolvimento pessoal
 ### 🎨 Veja mais de meus projetos em meus [Repositórios](https://github.com/JoaoKeuwe?tab=repositories)
 ### 📚 Acesse meu [Portifólio](https://portifoliokeuwe.netlify.app/)
-<img height="230px" width="220" align="right" src="eu.png">
+<img height="230px" width="215" align="right" src="eu.png">
 </div> 
 
 ##
