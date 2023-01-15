@@ -19,7 +19,7 @@
 <div>
 <a href="https://github.com/JoaoKeuwe">
  
-
+<!--
  
  ```javascript
 const express = require('express')
@@ -36,6 +36,10 @@ app.listen(3000, () =>{
 })
 
 ```
+
+-->
+ 
+ <img height="240em" src="https://github-readme-stats.vercel.app/api?username=joaokeuwe&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   
 <!-- <img height="210em" src="https://github-readme-stats.vercel.app/api?username=joaokeuwe&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> -->
 
