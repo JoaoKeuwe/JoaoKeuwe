@@ -77,6 +77,7 @@ app.listen(3000, () =>{
 
 <div align=left>
 
+## [Portifólio web](https://keuweportifolio.netlify.app/) 👨🏾‍💻
 ## [Projeto keuwe gym Website](https://gym-website-pi.vercel.app/) 🏋🏾
 ## [Calculadora Dark & Light Mode](https://calculatorkeuwe.netlify.app) ☀️🌙
 ## [Projeto Agency JK](https://keuweagency.netlify.app) 👨🏾‍💼  
@@ -85,7 +86,7 @@ app.listen(3000, () =>{
 <img height="400px" width="350px" align="right" src="copo.png">
 
 ## [Blog](https://keuweblog.netlify.app/) 📰
-## [Portifólio Pessoal](https://portifoliokeuwe.netlify.app) 🖼️
+## [Mini Portifólio](https://portifoliokeuwe.netlify.app) 🖼️
 ## [Jogo da velha Neon](https://tourmaline-praline-a4cf56.netlify.app) 🌀
 ## [Projeto Keuwe Tunes](https://keuwe-tunes.netlify.app) 🎶
 ## [Todo-List](https://keuwetodolist.netlify.app/) 🗒️
