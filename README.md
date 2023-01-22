@@ -79,12 +79,18 @@ app.listen(3000, () =>{
 
 ## [Portifólio web](https://keuweportifolio.netlify.app/) 👨🏾‍💻
 ## [Projeto keuwe gym Website](https://gym-website-pi.vercel.app/) 🏋🏾
+
+
+
 ## [Calculadora Dark & Light Mode](https://calculatorkeuwe.netlify.app) ☀️🌙
 ## [Landing Page Bored Cat](https://boredcat.netlify.app/) 🐈
+
+<img height="600px" width="450px" align="right" src="tecnologias.png">
+
 ## [Projeto Agency JK](https://keuweagency.netlify.app) 👨🏾‍💼  
 ## [Projeto Imobiliária Versace Home](https://imobiliariakeuwe.netlify.app) 🏠
 
-<img height="400px" width="350px" align="right" src="copo.png">
+
 
 ## [Blog](https://keuweblog.netlify.app/) 📰
 ## [Mini Portifólio](https://portifoliokeuwe.netlify.app) 🖼️
