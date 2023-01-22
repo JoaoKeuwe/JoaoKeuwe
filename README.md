@@ -82,7 +82,7 @@ app.listen(3000, () =>{
 ## [Calculadora Dark & Light Mode](https://calculatorkeuwe.netlify.app) ☀️🌙
 ## [Landing Page Bored Cat](https://boredcat.netlify.app/) 🐈
 
-<img height="600px" width="450px" align="right" src="tecnologias.png">
+<img height="550px" width="400px" align="right" src="tecnologias.png">
 
 ## [Projeto Agency JK](https://keuweagency.netlify.app) 👨🏾‍💼  
 ## [Projeto Imobiliária Versace Home](https://imobiliariakeuwe.netlify.app) 🏠
