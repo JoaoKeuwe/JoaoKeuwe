@@ -89,7 +89,6 @@ app.listen(3000, () =>{
 ## [Projeto Agency JK](https://keuweagency.netlify.app) 👨🏾‍💼  
 ## [Projeto Imobiliária Versace Home](https://imobiliariakeuwe.netlify.app) 🏠
 
-
 ## [Blog](https://keuweblog.netlify.app/) 📰
 ## [Mini Portifólio](https://portifoliokeuwe.netlify.app) 🖼️
 ## [Jogo da velha Neon](https://tourmaline-praline-a4cf56.netlify.app) 🌀
