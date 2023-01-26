@@ -50,7 +50,7 @@ app.listen(3000, () =>{
 <img height="220px" width="215" align="right" src="eu2.png">
 
 </div>
-
+ 
 ## Tecnologias que uso no meu dia a dia 🧑🏾‍💻
  
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,mysql,mongodb,redux,bootstrap,docker,vscode,powershell,bash,heroku,linux,git,github,jest,&perline=9)](https://skillicons.dev)
