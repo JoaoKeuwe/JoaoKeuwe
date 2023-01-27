@@ -45,6 +45,7 @@ app.listen(3000, () =>{
 
 </div>
 <div>
+ 
 <img height='240em' src='https://github-readme-streak-stats.herokuapp.com?user=joaokeuwe&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
 
 <img height="220px" width="215" align="right" src="eu2.png">
@@ -55,6 +56,7 @@ app.listen(3000, () =>{
  
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,mysql,mongodb,redux,bootstrap,docker,vscode,powershell,bash,heroku,linux,git,github,jest,&perline=9)](https://skillicons.dev)
 <img height="230px" width="220px" align="right" src="eu3.png">
+
 
 <br>
 
