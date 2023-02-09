@@ -57,7 +57,6 @@ app.listen(3000, () =>{
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,mysql,mongodb,redux,bootstrap,docker,vscode,powershell,bash,heroku,linux,git,github,jest&perline=9)](https://skillicons.dev)
 <img height="230px" width="220px" align="right" src="eu3.png">
 
-
 <br>
 
 ## Tecnologias que estou estudando no momento 👨🏾‍💻
