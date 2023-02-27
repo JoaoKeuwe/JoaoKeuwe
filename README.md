@@ -6,7 +6,7 @@
   
 ## Olá eu sou o João Keuwe! 👋👨🏾‍💻
 ### 🔭Quem sou eu?
-### ♋ 21 Anos
+### ♋ 21 Anos 
 ### 👨🏾‍💻 Desenvolvedor Front-end Jr
 ### 🎮 Amante de games
 ### 📚 Adoro ler livros sobre tecnologias  e desenvolvimento pessoal
