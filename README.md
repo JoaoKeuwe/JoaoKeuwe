@@ -82,22 +82,23 @@ app.listen(3000, () =>{
 
 ## [Portifólio web](https://keuweportifolio.netlify.app/) 👨🏾‍💻
 ## [Projeto keuwe gym Website](https://gym-website-pi.vercel.app/) 🏋🏾
-## [Calculadora Dark & Light Mode](https://calculatorkeuwe.netlify.app) ☀️🌙
-## [Landing Page Bored Cat](https://boredcat.netlify.app/) 🐈
+## [Calculadora Dark & Light Mode](https://calculator-dark-and-light-mode.vercel.app/) ☀️🌙
+## [Landing Page Bored Cat](https://landing-page-bored-cat-qis4.vercel.app/) 🐈
 
 <img height="500px" width="350px" align="right" src="tecnologias3.png">
 
-## [Projeto Agency JK](https://keuweagency.netlify.app) 👨🏾‍💼  
-## [Projeto Imobiliária Versace Home](https://imobiliariakeuwe.netlify.app) 🏠
-## [Blog](https://keuweblog.netlify.app/) 📰
-## [Mini Portifólio](https://portifoliokeuwe.netlify.app) 🖼️
+## [Projeto Agency JK](https://project-software-agency.vercel.app/) 👨🏾‍💼
+## [Landing Page astronault](https://landing-page-b8ah.vercel.app/)🧑‍🚀 
+## [Projeto Imobiliária Versace Home](https://projeto-imobiliaria-sand.vercel.app/) 🏠
+## [Blog](https://project-keuwe-blog.vercel.app/) 📰
+## [Mini Portifólio](https://portifoliokeuwe.vercel.app/) 🖼️
 ## [Jogo da velha Neon](https://tourmaline-praline-a4cf56.netlify.app) 🌀
 ## [Projeto Keuwe Tunes](https://keuwe-tunes.netlify.app) 🎶
-## [Todo-List](https://keuwetodolist.netlify.app/) 🗒️
-## [Projeto Buscador de CEP](https://busca-de-cep.netlify.app) 🚩
-## [Landing Page Tesla](https://landing-page-tesla.netlify.app) 🚗
-## [Projeto Keuwe Gallery](https://keuwegalery.netlify.app/) 📸
-## [Forms Twitter](https://teal-monstera-8600c4.netlify.app) 🕊️
-## [Landing Page Starbucks](https://landing-page-starbuckss.netlify.app) ☕
+## [Todo-List](https://project-todo-list-blush.vercel.app/) 🗒️
+## [Projeto Buscador de CEP](https://teste-kivid.vercel.app/) 🚩
+## [Landing Page Tesla](https://landing-page-bored-cat.vercel.app/) 🚗
+## [Projeto Keuwe Gallery](https://keuwegallery.vercel.app/) 📸
+## [Forms Twitter](https://forms-twitter.vercel.app/) 🕊️
+## [Landing Page Starbucks](https://landing-page-starbucks-seven.vercel.app/) ☕
 
 </div>
